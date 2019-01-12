@@ -1,2 +1,3 @@
 # dreamweaver_portfolio
-My first project using Adobe Dreamweaver CC
+My first project using Adobe Dreamweaver CC.
+In progress...
